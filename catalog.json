@@ -1,0 +1,18 @@
+{
+    "sample1":{
+        "reference":"JANJUA, Sadia et al. Biopolymer blended films of poly (butylene succinate)/cyclic olefin copolymer with enhanced mechanical strength for packaging applications. Journal of Applied Polymer Science, v. 138, n. 12, p. 50081, 2021.",
+        "referencePath":".\\Papers\\Biopolymer blended films of poly butylene succinate  cyclic olefin copolymer.pdf",
+        "doi":"https://doi.org/10.1002/app.50081",
+        "dataPath":"",
+        "characterizationTechniques":" The crystallographic structures were studied using XRD (Siemens D5005, STOE Germany) at 25C temperature, with a scanning range of 2θ= 10 -40. A CuK (λ= 0.15418 nm) radiation source was employed having operating current and voltage of 40 mA and 40 kV, respectively. To determine the chemistry of prepared films, an FTIR spectrometer (ATR-FTIR JASCO 7890) was employed having a measurement range of 4000-500 cm1. The surface morphologies of films, sput-ter coated with 40 nm Au, were investigated by SEM (JEOL JSM-6490A). The film's thickness was measured using a micrometer screw gauge and the mechanical test- ing was carried out by TRAPEZIUM-X universal tensile testing machine (Shimadzu AG- 20KNXD Plus, ASTM D882 standard) with rectangular shaped samples having a size of 5 1cm2. The antibacterial activities were",
+        "mixture":"PBS/COC"
+    },
+    "sampleN":{
+        "reference":"",
+        "referencePath":"",
+        "doi":"",
+        "dataPath":"",
+        "characterizationTechniques":"",
+        "mixture":""
+    }
+}
